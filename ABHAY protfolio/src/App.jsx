@@ -29,7 +29,7 @@ import {
   X
 } from "lucide-react";
 import { AnimatedCursor, LoadingOverlay, ParticleField, ScrollProgress } from "./components/VisualEffects.jsx";
-import { Reveal, SectionHeader } from "./components/Section.jsx";
+import { Reveal, SectionHeader } from "./components/section.jsx";
 import {
   aboutStats,
   achievements,
